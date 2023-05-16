@@ -1,4 +1,4 @@
-<p align="center">  
+<p text-align="center">  
   <h3>안녕하세요</h3>
 </p>
 
