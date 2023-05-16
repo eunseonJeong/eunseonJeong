@@ -1,6 +1,4 @@
-<p textAlign="center">  
-  <h3>안녕하세요</h3>
-</p>
+  <h3 textAlign="center">안녕하세요</h3>
 
 ---
 
